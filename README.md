@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mdmehedi03@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mehedihasan03/Resume.Mehedi-Hasan](https://github.com/mehedihasan03/Resume.Mehedi-Hasan)
+- 📄 Know about my experiences [https://github.com/mehedihasan03/Resume.Mehedi-Hasan](https://github.com/mehedihasan03/Resume_Mehedi-Hasan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
