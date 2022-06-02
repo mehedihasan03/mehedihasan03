@@ -1,13 +1,13 @@
 <h1 align="center">{"Hello World!"} 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A passionate developer from Bangladesh.</h3>
+<h3 align="center">A passionate JAVA developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan03&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan03" /> </p>
 
 </a> </p>
 
-- 🔭 I’m currently working on [Invoice Management](https://github.com/mehedihasan03/invoice_flutter_front_end )
+- 🔭 I’m currently working on MILLENNIUM Information Solution Ltd(https://www.mislbd.com)
 
-- 🌱 I’m currently learning **Spring boot, Flutter, Android**
+- 🌱 I’m currently learning **Spring boot, Flutter, Android and Software Business**
 
 - 👨‍💻 All of my projects are available at [https://mehedihasan03.github.io/](https://mehedihasan03.github.io/)
 
