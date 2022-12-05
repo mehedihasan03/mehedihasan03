@@ -5,9 +5,9 @@
 
 </a> </p>
 
-- 🔭 I’m currently working at MILLENNIUM Information Solution Ltd(https://www.mislbd.com)
+- 🔭 I’m currently working at Celloscope Ltd(http://celloscope.net)
 
-- 🌱 I’m currently learning **Spring boot, Flutter, Android and Software Business**
+- 🌱 I’m currently learning **Spring boot, Flutter, JAVA Reactive Programming**
 
 - 👨‍💻 All of my projects are available at [https://mehedihasan03.github.io/](https://mehedihasan03.github.io/)
 
