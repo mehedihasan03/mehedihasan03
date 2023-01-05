@@ -1,7 +1,7 @@
 <h1 align="center">{"Hello World!"} 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate JAVA developer from Bangladesh.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehedihasan03&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan03" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mehedihasan03&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan03" /> </p>
 
 </a> </p>
 
