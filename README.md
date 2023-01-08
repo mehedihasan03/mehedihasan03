@@ -41,5 +41,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan03&show_icons=true&locale=en&layout=compact" alt="mehedihasan03" /></p>
 
 <br />
-<br />
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sarfarazstark&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&theme=great-gatsby&hide_border=false)<br/>
