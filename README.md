@@ -32,11 +32,6 @@
 <br />
 <br />
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-<br />
-<br />
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan03&show_icons=true&locale=en&layout=compact" alt="mehedihasan03" /></p>
 
@@ -45,6 +40,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mehedihasan03&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan03&theme=great-gatsby&hide_border=false)<br/>
+<br />
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarfarazstark)
