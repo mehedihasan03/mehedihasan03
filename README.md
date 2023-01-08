@@ -16,8 +16,8 @@
 - 📄 Know about my experiences [https://github.com/mehedihasan03/Resume.Mehedi-Hasan](https://github.com/mehedihasan03/Resume_Mehedi-Hasan)
 
 <br />
-
-<h3 align="left"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with me:</h3>
+<h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedisoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedisoft" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100018913181732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018913181732" height="30" width="40" /></a>
