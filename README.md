@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Celloscope Ltd(http://celloscope.net)
 
-- 🌱 I’m currently learning **Spring boot, Flutter, JAVA Reactive Programming**
+- 🌱 I’m currently learning and developing with **Spring boot, project-reactor, JAVA Reactive Programming**
 
 - 👨‍💻 All of my projects are available at [https://mehedihasan03.github.io/](https://mehedihasan03.github.io/)
 
