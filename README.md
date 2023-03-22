@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mdmehedi03@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mehedihasan03/Resume.Mehedi-Hasan](https://github.com/mehedihasan03/Resume_Mehedi-Hasan)
+- 📄 Know about my experiences [https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/Mehedi%20Hasan.pdf](https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/Mehedi%20Hasan.pdf)
 
 <br />
 <h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
