@@ -154,5 +154,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan03&theme=great-gatsby&hide_border=false)<br/>
 <br />
 
-## 💰 You can help me by Donating
+## 💰 You can offer me a cup of coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mehedihasan03)
