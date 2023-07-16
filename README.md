@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working at Celloscope Ltd(http://celloscope.net)
 
-- 🌱 I’m currently learning and developing with **Spring boot, project-reactor, JAVA Reactive Programming**
+- 🌱 I’m currently learning and developing with **JAVA, JAVA Webflux, Spring boot, Angular**
 
 - 👨‍💻 All of my projects are available at [https://mehedihasan03.github.io/](https://mehedihasan03.github.io/)
 
-- 📫 How to reach me **mdmehedi03@gmail.com**
+- 📫 If want to reach me **mdmehedi03@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/Mehedi%20Hasan.pdf](https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/Mehedi%20Hasan.pdf)
+- 📄 To know more about myself [https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/Mehedi%20Hasan.pdf](https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/Mehedi%20Hasan.pdf)
 
 <br />
 <h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
