@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Celloscope Ltd(http://celloscope.net)
 
-- 🌱 I’m currently learning and developing with **JAVA, JAVA Webflux, Spring boot, Angular**
+- 🌱 I’m currently learning and developing **Reactive JAVA, Spring boot, NODE.JS, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://mehedihasan03.github.io/](https://mehedihasan03.github.io/)
 
