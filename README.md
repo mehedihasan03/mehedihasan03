@@ -144,7 +144,107 @@
 <br />
 <br />
 
+  ## 🚀 Featured Projects
 
+  ### 🏦 Agrani Bank Internet Banking Platform
+  > Current Enterprise Internet Banking Platform
+
+  Enterprise-grade Internet Banking solution serving retail and corporate banking customers.
+
+  - Developing and maintaining secure banking APIs and backend services
+  - Implementing authentication, authorization, and transaction workflows
+  - Working on beneficiary management, fund transfer, account services, and digital banking features
+  - Collaborating with banking, security, and infrastructure teams to ensure reliability and compliance
+
+  **Tech Stack:** Java, Spring Boot, PostgreSQL, Oracle, REST APIs, Microservices
+
+  ---
+
+  ### 🏦 NID Verification System (NVS)
+  > National Identity Verification Platform
+
+  Enterprise-grade identity verification system used for validating citizen information through National ID services.
+
+  - Backend development using Java, Spring Boot, and Reactive Programming
+  - Database design, optimization, and maintenance
+  - Jasper Reports development and reporting solutions
+  - Integration with external verification services
+
+  **Tech Stack:** Java, Spring Boot, Spring WebFlux, PostgreSQL, Oracle, Jasper Reports
+
+  ---
+
+  ### 💳 NRBCB Agent Banking Platform
+  > Digital Banking and Agent Banking Solution
+
+  Digital banking solution supporting agent banking operations and financial inclusion services.
+
+  - Backend service development and maintenance
+  - API design and integration
+  - Transaction processing and business logic implementation
+  - Database management and optimization
+
+  **Tech Stack:** Java, Spring Boot, PostgreSQL, Oracle, REST APIs
+
+  ---
+
+  ### 🏛️ Microfinance Regulatory Authority (MRA) System
+  > Financial Management and Regulatory Platform
+
+  Financial management and regulatory platform supporting microfinance operations across institutions.
+
+  - Developed and maintained backend services
+  - Implemented business workflows and financial processes
+  - Database optimization and reporting solutions
+  - Production support and issue resolution
+
+  **Tech Stack:** Java, Spring Boot, PostgreSQL, Oracle, Jasper Reports
+
+  ---
+
+  ### 🔄 Multi-Tenant Financial Services Platform
+  > Enterprise Multi-Tenant Financial Architecture
+
+  Enterprise multi-tenant architecture supporting multiple financial institutions with isolated data management.
+
+  - Implemented tenant-based database schema management
+  - Reactive service development using Spring WebFlux and R2DBC
+  - Oracle and PostgreSQL integration
+  - Performance tuning and scalability improvements
+
+  **Tech Stack:** Java, Spring WebFlux, R2DBC, Oracle, PostgreSQL
+
+  ---
+
+  ### 📊 Enterprise Reporting & Analytics Solutions
+  > Financial Reporting and Data Analytics
+
+  Designed and developed reporting systems for banking and financial applications.
+
+  - Complex SQL query optimization
+  - Dynamic report generation using Jasper Reports
+  - Financial and operational analytics
+  - Performance-focused database solutions
+
+  **Tech Stack:** PostgreSQL, Oracle, Jasper Reports, SQL Optimization
+
+  ---
+
+  ## 💼 Core Expertise
+
+  ### 🏦 Banking & FinTech Systems
+  Building secure, scalable backend services for digital banking, agent banking, identity verification, and microfinance platforms serving financial institutions across Bangladesh.
+
+  ### ⚡ Enterprise Backend Development
+  Specialized in Java, Spring Boot, Spring WebFlux, PostgreSQL, Oracle, REST APIs, Reactive Programming, Multi-Tenant Architecture, and Database Optimization.
+
+  ### 📊 Reporting & Data Solutions
+  Experienced in complex SQL development, Jasper Reports, financial reporting, analytics, and production-grade database management.
+
+
+
+<br />
+<br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan03&show_icons=true&locale=en&layout=compact" alt="mehedihasan03" /></p>
 
 <br />
