@@ -1,239 +1,131 @@
-<h1 align="center">{"Hello World!"} 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A passionate **Software Engineer** from Bangladesh.</h3>
+<h1 align="center">Hi, I'm Mehedi Hasan</h1>
+<h3 align="center">Software Engineer | Java Backend Developer | Banking & FinTech Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan03&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan03" /> </p>
-
-</a> </p>
-
-- 🔭 I’m currently working at Celloscope Ltd(http://celloscope.net)
-
-- 🌱 I’m currently worlking on **JAVA, Spring boot | Spring WebFlux, PostgreSQL**
-
-- 🏦 Building Internet Banking, Agent Banking, NID Verification, and Microfinance Solutions
-
-- 👨‍💻 All of my projects are available at [https://mehedihasan03.github.io/](https://mehedihasan03.github.io/)
-
-- 📫 If want to reach me **mdmehedi03@gmail.com**
-
-- 🚀 Passionate about scalable backend systems and financial technology
-
-- 📄 To know more about myself [https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/mehedi_hasan.pdf](https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/mehedi_hasan.pdf)
-
-<br />
-<h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/mehedisoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedisoft" height="30" width="40" /></a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://fb.com/profile.php?id=100018913181732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018913181732" height="30" width="40" /></a> 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://instagram.com/m_h_medu?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/m_h_medu?igshid=MzNlNGNkZWQ4Mg==" height="30" width="40" /></a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://stackoverflow.com/users/18019679/mehedi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18019679/mehedi-hasan" height="30" width="40" /></a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.hackerrank.com/mdmehedi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdmehedi03" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehedihasan03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<br />
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<br />
-<br />
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<br />
-<br />
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<br />
-<br />
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<br />
-<br />
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<br />
-<br />
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/mehedisoft">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdmehedi03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://mehedihasan03.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://stackoverflow.com/users/18019679/mehedi-hasan">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
 </p>
 
-<br />
-<br />
+---
 
+## About Me
 
-  ## 💼 Core Expertise
+I am a Software Engineer from Bangladesh, currently working at [Celloscope Ltd](http://celloscope.net), focused on secure, scalable backend systems for banking and financial technology.
 
+- Currently working on internet banking, agent banking, identity verification, and microfinance platforms
+- Backend-focused with Java, Spring Boot, Spring WebFlux, PostgreSQL, Oracle, REST APIs, and microservices
+- Experienced in authentication, authorization, transaction workflows, reporting, and database optimization
+- Passionate about reliable financial systems, clean backend architecture, and production-grade engineering
+- Resume: [mehedi_hasan.pdf](https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/mehedi_hasan.pdf)
 
-  ### 🏦 Banking & FinTech Systems
-  Building secure, scalable backend services for digital banking, agent banking, identity verification, and microfinance platforms serving financial institutions across Bangladesh.
+---
 
-  ### ⚡ Enterprise Backend Development
-  Specialized in Java, Spring Boot, Spring WebFlux, PostgreSQL, Oracle, REST APIs, Reactive Programming, Multi-Tenant Architecture, and Database Optimization.
+## Tech Stack
 
-  ### 📊 Reporting & Data Solutions
-  Experienced in complex SQL development, Jasper Reports, financial reporting, analytics, and production-grade database management.
+### Backend & Architecture
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-111827?style=flat)
+![Reactive Programming](https://img.shields.io/badge/Reactive_Programming-2563EB?style=flat)
 
-<br />
+### Database & Reporting
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat)
+![Jasper Reports](https://img.shields.io/badge/Jasper_Reports-8B5CF6?style=flat)
+![Database Optimization](https://img.shields.io/badge/Database_Optimization-0F766E?style=flat)
 
-  ## 🚀 Featured Projects
+### Tools & Frontend Exposure
 
-  ### 🏦 Agrani Bank Internet Banking Platform *(Current)*
-  Enterprise-grade internet banking platform for retail and corporate customers.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-  `Java` `Spring Boot` `PostgreSQL` `Oracle` `REST APIs` `Microservices`
+---
 
-  - Secure banking APIs, authentication, authorization, and transaction workflows
-  - Beneficiary management, fund transfer, account services, and digital banking features
-  - Collaboration with banking, security, and infrastructure teams for reliability and compliance
+## Core Expertise
 
-  
+| Area | Focus |
+| --- | --- |
+| Banking & FinTech | Internet banking, agent banking, fund transfer, account services, identity verification, microfinance systems |
+| Enterprise Backend | Java, Spring Boot, Spring WebFlux, REST APIs, microservices, reactive services, service integration |
+| Security & Access Control | Authentication, authorization, OTP/PIN flows, API security, user security management |
+| Data & Reporting | PostgreSQL, Oracle, SQL optimization, Jasper Reports, financial and operational reporting |
+| Production Engineering | Debugging, issue resolution, performance tuning, compliance-focused backend delivery |
 
-  ### 🏦 NID Verification System (NVS)
-  National identity verification platform for validating citizen information through NID services.
+---
 
-  `Java` `Spring Boot` `Spring WebFlux` `PostgreSQL` `Oracle` `Jasper Reports`
+## Featured Projects
 
-  - Backend services, database optimization, reporting, and external verification integration
+| Project | Summary | Tech |
+| --- | --- | --- |
+| **Agrani Bank Internet Banking Platform** `Current` | Enterprise internet banking platform for retail and corporate customers. Worked on secure APIs, authentication, authorization, beneficiary management, fund transfer, account services, and transaction workflows. | `Java` `Spring Boot` `PostgreSQL` `Oracle` `REST APIs` `Microservices` |
+| **NID Verification System (NVS)** | National identity verification platform for validating citizen information through NID services. Worked on backend services, database optimization, reporting, and external service integration. | `Java` `Spring Boot` `Spring WebFlux` `PostgreSQL` `Oracle` `Jasper Reports` |
+| **NRBCB Agent Banking Platform** | Digital banking and agent banking platform supporting financial inclusion services. Worked on APIs, transaction processing, business logic, integration, and database management. | `Java` `Spring Boot` `PostgreSQL` `Oracle` `REST APIs` |
+| **Microfinance Regulatory Authority (MRA) System** | Regulatory and financial management system supporting microfinance operations. Worked on backend services, financial workflows, reporting, production support, and optimization. | `Java` `Spring Boot` `PostgreSQL` `Oracle` `Jasper Reports` |
+| **Multi-Tenant Financial Services Platform** | Enterprise platform supporting multiple financial institutions with isolated data management. Worked on tenant-based schema management, reactive services, database integration, and scalability. | `Java` `Spring WebFlux` `R2DBC` `Oracle` `PostgreSQL` |
+| **Enterprise Reporting & Analytics** | Reporting and analytics solutions for banking and financial applications. Worked on complex SQL optimization, dynamic reports, financial analytics, and production-grade data workflows. | `PostgreSQL` `Oracle` `Jasper Reports` `SQL Optimization` |
 
-  
+---
 
-  ### 💳 NRBCB Agent Banking Platform
-  Digital banking solution supporting agent banking operations and financial inclusion services.
+## Practice & R&D Projects
 
-  `Java` `Spring Boot` `PostgreSQL` `Oracle` `REST APIs`
+| Project Area | What I Practice |
+| --- | --- |
+| Crypto Services | AES, Triple DES, encryption/decryption service design, secure API handling |
+| Reactive Services | Spring WebFlux, reactive endpoints, non-blocking service patterns |
+| Authentication & Identity | JWT bearer token, identity service, security flows, API protection |
+| Java Performance | Virtual threads, backend performance testing, concurrency experiments |
+| Business APIs | Invoice API, loan API, ping services, small production-style backend services |
 
-  - API development, transaction processing, business logic, and database management
+---
 
-  
+## GitHub Activity
 
-  ### 🏛️ Microfinance Regulatory Authority (MRA) System
-  Regulatory and financial management platform for microfinance operations.
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedihasan03&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan03&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
 
-  `Java` `Spring Boot` `PostgreSQL` `Oracle` `Jasper Reports`
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan03&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
-  - Backend services, financial workflows, reporting, production support, and optimization
+---
 
-  
+## Connect
 
-  ### 🔄 Multi-Tenant Financial Services Platform
-  Enterprise multi-tenant platform supporting multiple financial institutions with isolated data.
+- Portfolio: [mehedihasan03.github.io](https://mehedihasan03.github.io/)
+- LinkedIn: [linkedin.com/in/mehedisoft](https://linkedin.com/in/mehedisoft)
+- Stack Overflow: [stackoverflow.com/users/18019679/mehedi-hasan](https://stackoverflow.com/users/18019679/mehedi-hasan)
+- HackerRank: [hackerrank.com/mdmehedi03](https://www.hackerrank.com/mdmehedi03)
+- Email: [mdmehedi03@gmail.com](mailto:mdmehedi03@gmail.com)
 
-  `Java` `Spring WebFlux` `R2DBC` `Oracle` `PostgreSQL`
+---
 
-  - Tenant-based schema management, reactive services, database integration, and performance tuning
-
-  
-
-  ### 📊 Enterprise Reporting & Analytics
-  Reporting and analytics solutions for banking and financial applications.
-
-  `PostgreSQL` `Oracle` `Jasper Reports` `SQL Optimization`
-
-  - Complex SQL optimization, dynamic reports, financial analytics, and production-grade data solutions
-
-
-
-
-<br />
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan03&show_icons=true&locale=en&layout=compact" alt="mehedihasan03" /></p>
-
-<br />
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehedihasan03&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan03&theme=great-gatsby&hide_border=false)<br/>
-<br />
-
-## 💰 You can offer me a cup of coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mehedihasan03)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mehedihasan03">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
