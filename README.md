@@ -30,7 +30,7 @@ I am a Software Engineer from Bangladesh, currently working at [Celloscope Ltd](
 - Backend-focused with Java, Spring Boot, Spring WebFlux, PostgreSQL, Oracle, REST APIs, and microservices
 - Experienced in authentication, authorization, transaction workflows, reporting, and database optimization
 - Passionate about reliable financial systems, clean backend architecture, and production-grade engineering
-- Resume: [mehedi_hasan.pdf](https://github.com/mehedihasan03/Resume_Mehedi-Hasan/blob/master/mehedi_hasan.pdf)
+- Resume: [mehedi_hasan.pdf](https://github.com/mehedihasan03/mehedihasan03.github.io/blob/master/assets/docs/mehedi_hasan.pdf)
 
 ---
 
